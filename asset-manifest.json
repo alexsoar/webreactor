@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/webreactor/static/css/main.eb59d9f0.chunk.css",
+    "main.js": "/webreactor/static/js/main.f653f6ed.chunk.js",
+    "main.js.map": "/webreactor/static/js/main.f653f6ed.chunk.js.map",
+    "runtime-main.js": "/webreactor/static/js/runtime-main.0059d95d.js",
+    "runtime-main.js.map": "/webreactor/static/js/runtime-main.0059d95d.js.map",
+    "static/js/2.7a1432e5.chunk.js": "/webreactor/static/js/2.7a1432e5.chunk.js",
+    "static/js/2.7a1432e5.chunk.js.map": "/webreactor/static/js/2.7a1432e5.chunk.js.map",
+    "static/js/3.40dff020.chunk.js": "/webreactor/static/js/3.40dff020.chunk.js",
+    "static/js/3.40dff020.chunk.js.map": "/webreactor/static/js/3.40dff020.chunk.js.map",
+    "index.html": "/webreactor/index.html",
+    "static/css/main.eb59d9f0.chunk.css.map": "/webreactor/static/css/main.eb59d9f0.chunk.css.map",
+    "static/js/2.7a1432e5.chunk.js.LICENSE.txt": "/webreactor/static/js/2.7a1432e5.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/webreactor/static/media/ProximaNova-Regular.d97f8f32.eot",
+    "static/media/pizza-logo.56ac8703.svg": "/webreactor/static/media/pizza-logo.56ac8703.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0059d95d.js",
+    "static/js/2.7a1432e5.chunk.js",
+    "static/css/main.eb59d9f0.chunk.css",
+    "static/js/main.f653f6ed.chunk.js"
+  ]
+}
